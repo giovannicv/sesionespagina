@@ -1,0 +1,1 @@
+hola choco, este es una pagina con sesiones en PHP, js, css. tomar en cuenta que solo se vera en PHP.
